@@ -2,4 +2,5 @@ hello!
 how u doin?
 u feelin well?
 -------------------
-yea thanks you ! 
+yea thanks you !
+how about you? 
